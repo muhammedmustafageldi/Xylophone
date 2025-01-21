@@ -1,4 +1,4 @@
-# Xylophone
+# Xylophone ♬⋆.˚
 
 Xylophone is a simple and interactive iOS app built using Swift. It features a colorful UI where each button represents a musical note. Pressing a button plays the corresponding sound. This app is designed to practice Swift programming concepts such as UI design, audio playback, and button actions.
 
@@ -22,7 +22,7 @@ To try out the app on your local machine:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Xylophone.git
+   git clone https://github.com/muhammedmustafageldi/Xylophone.git
 2.	Open the Xylophone.xcodeproj file in Xcode.
 3.	Run the project on a simulator or your physical device.
 
